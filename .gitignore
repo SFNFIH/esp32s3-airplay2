@@ -1,0 +1,25 @@
+
+agent-tools/
+airplay-esp32/build/
+airplay-esp32/dependencies.lock
+airplay-esp32/dependencies.lock.bak
+airplay-esp32/managed_components/
+airplay-esp32/.pio/
+airplay-esp32/sdkconfig
+airplay-esp32/sdkconfig.old
+*.bin.bak
+build-idf.log
+build.log
+.DS_Store
+# Editor / OS
+# ESP-IDF
+firmware/*.bin
+firmware/from-idf/
+firmware/from-source/
+.idea/
+idf-install.log
+# Local package artifacts
+*.log
+# PlatformIO / ESP-IDF
+*.swp
+.vscode/

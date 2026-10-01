@@ -1,0 +1,5 @@
+This repository combines:
+1) Local kit scripts/docs (Makefile, scripts/, docs/, README.md) — provided as-is for personal/non-commercial use with the firmware below.
+2) airplay-esp32/ — upstream project under its Non-Commercial License (see LICENSE.airplay-esp32 and airplay-esp32/LICENSE).
+
+Upstream copyright (c) Remi Bouteiller. Commercial use of airplay-esp32 requires permission from the copyright holder.
